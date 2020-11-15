@@ -10,6 +10,11 @@
 
 #wall .parent #tag-4 {
   display: none;
+}
+  
+#wall .parent > div {
+  display: none;
+} 
 
 #wall div {
   display: none;
